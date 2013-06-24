@@ -1,0 +1,11 @@
+E:\GDH\DynBrowser\DynBrowser\bin\Debug\DynBrowser.exe
+E:\GDH\DynBrowser\DynBrowser\bin\Debug\DynBrowser.pdb
+E:\GDH\DynBrowser\DynBrowser\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\GDH\DynBrowser\DynBrowser\obj\x86\Debug\DynBrowser.MainForm.resources
+E:\GDH\DynBrowser\DynBrowser\obj\x86\Debug\DynBrowser.Properties.Resources.resources
+E:\GDH\DynBrowser\DynBrowser\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\GDH\DynBrowser\DynBrowser\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\GDH\DynBrowser\DynBrowser\obj\x86\Debug\DynBrowser.exe
+E:\GDH\DynBrowser\DynBrowser\obj\x86\Debug\DynBrowser.pdb
+E:\GDH\DynBrowser\DynBrowser\obj\x86\Debug\DynBrowser.csproj.ResolveComReference.cache
+E:\GDH\DynBrowser\DynBrowser\obj\x86\Debug\DynBrowser.TimerForm.resources
